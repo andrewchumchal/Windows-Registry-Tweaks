@@ -1,2 +1,0 @@
-# Windows-Registry-Tweaks
-
