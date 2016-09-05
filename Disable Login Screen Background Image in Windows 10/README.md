@@ -1,3 +1,5 @@
+<b><h1> Disable Login Screen Background Image in Windows 10  </h1></b>
+
 Microsoft has put the new "Hero" wallpaper as the background image of Login Screen in Windows 10. Interested people can disable or remove it using following method:
 
 [![Windows_Login](https://raw.githubusercontent.com/andyipod1437/Windows-Registry-Tweaks/master/images/Disable%20Login%20Screen%20Background%20Image.png)]
